@@ -1,0 +1,51 @@
+{
+  "Griefwalker": {
+    "narrative": "You\u2019ve carried more than your share. This plan is quiet, gentle, and won\u2019t overwhelm. It\u2019s built for rest, not stress.",
+    "cms_tags": [
+      "PPO",
+      "Telehealth",
+      "No copays",
+      "Low noise"
+    ],
+    "tone": "Warm Grandparent",
+    "values": [
+      "gentleness",
+      "ease",
+      "soothing"
+    ],
+    "risks": [
+      "burnout",
+      "overwhelm",
+      "invisible suffering"
+    ],
+    "features": [
+      "In-home care",
+      "Spiritual support",
+      "Low-stimulus onboarding"
+    ]
+  },
+  "Fighter": {
+    "narrative": "You need a plan that fights back. One with appeal rights, low delays, and quick access to real doctors who listen.",
+    "cms_tags": [
+      "Appeals process",
+      "Same-day access",
+      "PPO"
+    ],
+    "tone": "OG Uncle",
+    "values": [
+      "justice",
+      "resilience",
+      "urgency"
+    ],
+    "risks": [
+      "bureaucratic neglect",
+      "dismissal",
+      "delay fatigue"
+    ],
+    "features": [
+      "Escalation team",
+      "Rapid approval hotline",
+      "Doctor re-assign tools"
+    ]
+  }
+}
