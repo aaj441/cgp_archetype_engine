@@ -1,0 +1,171 @@
+{
+  "Griefwalker": {
+    "narrative": "You\u2019ve carried more than your share. This plan is quiet, gentle, and won\u2019t overwhelm. It\u2019s built for rest, not stress.",
+    "cms_tags": [
+      "PPO",
+      "Telehealth",
+      "No copays",
+      "Low noise"
+    ],
+    "tone": "Warm Grandparent",
+    "values": [
+      "gentleness",
+      "ease",
+      "soothing"
+    ],
+    "risks": [
+      "burnout",
+      "overwhelm",
+      "invisible suffering"
+    ],
+    "features": [
+      "In-home care",
+      "Spiritual support",
+      "Low-stimulus onboarding"
+    ]
+  },
+  "Fighter": {
+    "narrative": "You need a plan that fights back. One with appeal rights, low delays, and quick access to real doctors who listen.",
+    "cms_tags": [
+      "Appeals process",
+      "Same-day access",
+      "PPO"
+    ],
+    "tone": "OG Uncle",
+    "values": [
+      "justice",
+      "resilience",
+      "urgency"
+    ],
+    "risks": [
+      "bureaucratic neglect",
+      "dismissal",
+      "delay fatigue"
+    ],
+    "features": [
+      "Escalation team",
+      "Rapid approval hotline",
+      "Doctor re-assign tools"
+    ]
+  },
+  "Self-Protector": {
+    "narrative": "Boundaries matter. This plan respects your space\u2014low calls, no upsells, just clear options you can control.",
+    "cms_tags": [
+      "Do Not Call registry",
+      "Minimal outreach",
+      "Agent opt-out"
+    ],
+    "tone": "Neutral AI",
+    "values": [
+      "privacy",
+      "calm",
+      "control"
+    ],
+    "risks": [
+      "overstimulation",
+      "intrusion",
+      "sales fatigue"
+    ],
+    "features": [
+      "Silence-first enrollment",
+      "PDF comparisons",
+      "Auto opt-out"
+    ]
+  },
+  "Seeker": {
+    "narrative": "This plan is your launchpad. Broad network, no referrals, flexible coverage to support your next chapter.",
+    "cms_tags": [
+      "Referral-free network",
+      "Wellness rewards",
+      "Flexible HMO"
+    ],
+    "tone": "Thoughtful Guide",
+    "values": [
+      "exploration",
+      "learning",
+      "freedom"
+    ],
+    "risks": [
+      "confusion",
+      "analysis paralysis",
+      "change fatigue"
+    ],
+    "features": [
+      "Curated options",
+      "Mind-body access",
+      "Flex plans"
+    ]
+  },
+  "Solo Architect": {
+    "narrative": "Built for the logical. Transparent costs. No fluff. Easily comparable. You pick, it adapts.",
+    "cms_tags": [
+      "Transparent pricing",
+      "PDF comparisons",
+      "Plan finder API"
+    ],
+    "tone": "Data Whisperer",
+    "values": [
+      "clarity",
+      "autonomy",
+      "precision"
+    ],
+    "risks": [
+      "lack of empathy",
+      "cold service",
+      "complex menus"
+    ],
+    "features": [
+      "Filter-based search",
+      "Cost calculators",
+      "No-nonsense delivery"
+    ]
+  },
+  "Connector": {
+    "narrative": "You care for others. This plan supports caregivers with extra visits, community perks, and shared access tools.",
+    "cms_tags": [
+      "Caregiver support",
+      "Home visits",
+      "Community perks"
+    ],
+    "tone": "OG Uncle",
+    "values": [
+      "connection",
+      "reciprocity",
+      "community"
+    ],
+    "risks": [
+      "loneliness",
+      "burnout",
+      "disconnection"
+    ],
+    "features": [
+      "Peer hotline",
+      "In-home caregiver credits",
+      "Faith-based access"
+    ]
+  },
+  "Nurturer": {
+    "narrative": "You\u2019re in healing mode. This plan integrates physical, mental, and even spiritual care into one affordable option.",
+    "cms_tags": [
+      "Holistic plans",
+      "Integrative providers",
+      "Mental health allowance"
+    ],
+    "tone": "Healer voice",
+    "values": [
+      "healing",
+      "love",
+      "inner peace"
+    ],
+    "risks": [
+      "neglect",
+      "judgment",
+      "one-size-fits-all"
+    ],
+    "features": [
+      "Group therapy",
+      "Spiritual providers",
+      "Holistic home kits"
+    ]
+  }
+}

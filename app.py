@@ -3,9 +3,9 @@ import streamlit as st
 import json
 
 st.set_page_config(page_title='Care Genome Engine', layout='centered')
-st.title("🧬 CGP Archetype Engine v2")
+st.title("🧬 CGP Archetype Engine")
 
-vault = json.load(open("archetype_prompt_vault_final.json"))
+vault = json.load(open("archetype_prompt_vault_full.json"))
 name = st.selectbox("Choose an archetype", list(vault.keys()))
 
 if name:
